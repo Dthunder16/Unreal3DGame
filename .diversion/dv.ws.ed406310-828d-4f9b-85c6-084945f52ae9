@@ -1,0 +1,14 @@
+{
+  "WorkspaceID": "dv.ws.ed406310-828d-4f9b-85c6-084945f52ae9",
+  "RepoID": "dv.repo.0160aa08-d421-47ed-8276-48f26bf31305",
+  "Path": "/Users/darrenma/Documents/Unreal Projects/Unreal3DClassProject",
+  "AccountID": "Google_101450084513327187756",
+  "BranchID": "dv.branch.1",
+  "BranchName": "main",
+  "CommitID": "dv.commit.1",
+  "Paused": false,
+  "ShouldDownload": true,
+  "RepoName": "darrenma_catsronaut_unreal26",
+  "ReadOnly": false,
+  "DigestMethod": "sha1"
+}
